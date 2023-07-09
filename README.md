@@ -9,8 +9,21 @@ python 3.x
 * library tkinter 
 
 ## About
-A simple program that allows you to convert an improved pdf file to an mp3 sound file
+
+ by Radosław Tecmer (remceTkedaR)
+ radoslaw69tecmer@gmail.com
 
 
 
-## Radosław Tecmer 2023 year  [RT](http://electronic.pythonanywhere.com/#about).
+"In the directory na_xx, there are invoices (files) in xls format.
+ The program retrieves the files from the specified directory, extracts
+ the sum value, and adds up all the sums from the xls files.
+ Then it saves the sum value in a txt file in the chosen directory.
+ I needed such a program so that I wouldn't have to manually calculate
+ the sum of these invoices every time before sending them.
+ Because it was important to me that the total sum of these invoices
+ does not exceed a specified amount per month."
+
+
+
+## Radosław Tecmer 2023 year[RT](http://electronic.pythonanywhere.com/#about).
